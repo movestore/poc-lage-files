@@ -1,0 +1,21 @@
+{
+    "settings": [
+      {
+        "id": "year",
+        "name": "Year",
+        "description": "Select the year.",
+        "type": "INTEGER",
+        "defaultValue": 2014
+      }
+    ],
+    "dependencies": {
+      "R": [
+        {
+          "name": "move"
+        },
+        {
+          "name": "lubridate"
+        }
+      ]
+    }
+  }
