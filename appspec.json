@@ -41,6 +41,7 @@
           "affiliationRor": null
         }
       ],
+      "createsArtifacts": true,
       "documentation": {
         "url": "https://github.com/movestore/poc-large-files/README.md"
       }
