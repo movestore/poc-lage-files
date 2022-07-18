@@ -17,5 +17,31 @@
           "name": "lubridate"
         }
       ]
-    }
+    },
+    "license": {
+        "key": "MIT"
+      },
+      "language": "eng",
+      "keywords": [
+        "poc",
+        "large file"
+      ],
+      "people": [
+        {
+          "firstName": "Clemens",
+          "middleInitials": null,
+          "lastName": "Hahn",
+          "email": "clemens@couchbits.com",
+          "roles": [
+            "author",
+            "creator"
+          ],
+          "orcid": null,
+          "affiliation": null,
+          "affiliationRor": null
+        }
+      ],
+      "documentation": {
+        "url": "https://github.com/movestore/poc-large-files/README.md"
+      }
   }
